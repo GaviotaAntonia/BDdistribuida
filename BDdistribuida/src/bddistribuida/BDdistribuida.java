@@ -6,6 +6,10 @@ public class BDdistribuida {
         
         for (int i = 0; i < 10; i++) {
             System.out.println(i+"hola");
+            for (int j = 0; j < 10; j++) {
+                System.out.println(i);
+                
+            }
         }
     }
     
